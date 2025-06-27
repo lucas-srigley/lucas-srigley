@@ -17,7 +17,7 @@ Software Development Lead at Queen's Cryptography and Cybersecurity Club (Q3C)
 
 #### Contact 
 --- 
-LinkedIn:  https://www.linkedin.com/in/lucas-srigley\
+LinkedIn:  https://www.linkedin.com/in/lucas-srigley \
 Email:     lucas.srigley@queensu.ca
 
 #### Skills
