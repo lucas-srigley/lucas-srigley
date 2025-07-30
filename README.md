@@ -13,7 +13,7 @@ I'm a 4th-year Computer Engineering Student @ Queen's University.
 ---
 Full-Stack Developer Intern @ Celestica\
 Teaching Assistant for Introduction to Computer Programming\
-Software Development Lead at Queen's Cryptography and Cybersecurity Club (Q3C)
+Software Development Lead @ Queen's Cryptography and Cybersecurity Club (Q3C)
 
 #### Contact 
 --- 
