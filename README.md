@@ -11,9 +11,9 @@ I'm a 4th-year Computer Engineering Student @ Queen's University.
 
 #### Experience
 ---
-Full-Stack Developer Intern @ Celestica\
-Teaching Assistant for Introduction to Computer Programming\
-Software Development Lead @ Queen's Cryptography and Cybersecurity Club (Q3C)
+Full-Stack Cloud Developer Intern (On-Call) @ Celestica\
+Teaching Assistant for Operating Systems (Fall 2025)\
+Teaching Assistant for Introduction to Computer Programming (Fall 2023)
 
 #### Contact 
 --- 
