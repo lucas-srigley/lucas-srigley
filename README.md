@@ -11,7 +11,7 @@ I'm a 4th-year Computer Engineering Student @ Queen's University.
 
 #### Experience
 ---
-Full-Stack Cloud Developer Intern (On-Call) @ Celestica\
+Full-Stack Cloud Developer: May 2024 - Aug 2025 (Internship), Sep 2025 - May 2025 (On-Call) @ Celestica\
 Teaching Assistant for Operating Systems (Fall 2025)\
 Teaching Assistant for Introduction to Computer Programming (Fall 2023)
 
